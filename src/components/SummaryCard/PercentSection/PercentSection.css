@@ -1,0 +1,14 @@
+.percent-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    width: 300px;
+    border-radius: 8px;
+    
+}
+.percent-title{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+

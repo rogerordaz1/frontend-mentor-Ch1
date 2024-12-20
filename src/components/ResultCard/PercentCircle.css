@@ -1,0 +1,11 @@
+.circle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    background: rgb(255,254,255);
+    background: linear-gradient(169deg, rgba(255,254,255,1) 0%, rgba(127,101,238,1) 0%, rgba(45,41,244,1) 99%);
+}
